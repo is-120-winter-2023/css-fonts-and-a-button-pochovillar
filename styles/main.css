@@ -133,8 +133,11 @@ a[href]:hover {
   transition: background-color 300ms ease;
   cursor: pointer;
 }
-main {
+.main {
   margin: 0 auto;
   padding: 0 1rem;
   max-width: 50rem;
+}
+.body {
+  font-size: 1rem;
 }
