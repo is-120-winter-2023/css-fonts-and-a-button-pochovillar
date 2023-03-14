@@ -100,6 +100,11 @@ h4 {
   margin-bottom: 0.5em;
   margin-top: 1.5em;
 }
+
+body{
+  font-family: "Poppins", sans-serif;
+  color: #333
+}
 h1 {
   font-size: 3.5rem;
 }
