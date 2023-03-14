@@ -127,6 +127,11 @@ aside {
 a {
   text-decoration: none;
 }
+
+a[href]:hover {
+  background-color: var(--color-secondary);
+  color: #205373;
+}
 .button {
   border: 1px solid var(--color-secondary);
   color: var(--color-secondary);
