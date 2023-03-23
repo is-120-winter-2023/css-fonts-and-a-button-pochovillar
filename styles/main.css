@@ -169,3 +169,8 @@ color: whitesmoke;
 margin: 0;
 padding: 3rem 1rem 6rem;
 }
+
+body{
+  font-family: "Poppins", sans-serif;
+  color: #333;
+}
